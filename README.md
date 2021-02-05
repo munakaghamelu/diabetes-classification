@@ -1,8 +1,3 @@
-# diabetes-classification
-
-Data uploaded to AWS S3 - https://diabetes-data-mka.s3.eu-west-2.amazonaws.com/diabetes_data_upload.csv
-
-
 # Diabetes Classification Model using Logistic Regression
 It is estimated that 415 million people are living with diabetes in the world, which is estimated to be 1 in 11 of the world's adult population. 46% of people with diabetes are undiagnosed.
 
@@ -16,6 +11,9 @@ The approach I took to solve this task was:
 </ol>
 
 The python libraries I used were pandas, numpy, sklearn, seaborn and matplotlib. -->
+
+## Dataset ##
+Data uploaded to AWS S3 - https://diabetes-data-mka.s3.eu-west-2.amazonaws.com/diabetes_data_upload.csv
 
 ## Setup ##
 <!-- All of the code was only tested using Python 3.7.0 so I'd recommend using it as well. Before starting, setup a virtual environment and within that environment, install the dependencies. All dependancies are included in requirements.txt (created using pipreqs) <br />
