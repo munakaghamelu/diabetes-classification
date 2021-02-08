@@ -6,7 +6,7 @@ As part of the Coders of Colour Computer Vision course we were taught about many
 The approach I took to solve this task was:
 <ol>
   <li>Retrieve my dataset.</li>
-  <li>Preprocess and Vizual data.</li>
+  <li>Preprocess and Visualize data.</li>
   <li>Apply Logistic Regression model.</li>
   <li>Produce model, and see how well it predicts using metrics such as confusion matrix.</li>
 </ol>
